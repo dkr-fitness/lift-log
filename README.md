@@ -1,2 +1,2 @@
-# bft-log
-BFT workout tracker
+# lift-log
+lift-log workout tracker
